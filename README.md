@@ -3,6 +3,7 @@
 Eu me chamo André Alan Alve (A3 DEV), sou formado em engenharia de telecomunicações e hoje en dia tenho desenvolvido scripts e sites para solidificar os conhecimentos adiquiridos em cursos como Mestre Pythonista do @DEVAPRENDER e cursos do Alura. Estarei criando aplicações e scripts que serão compartilhados aqui em meu github; 
 
 🌱 Desenvolvendo habilidades em Python WEB (Flask, Django).
+
 🌱 Desenvolvendo habilidades em Python SELENIUM, PYAUTOGUI, PANDAS, BEAUTIFUL SOUP
 
 Como me encontrar: 
